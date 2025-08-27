@@ -34,8 +34,8 @@ First code challenge making a diamond and inside is the name
 [CodeChallenge2]https://github.com/jamestiongcp-codee/ITCS102--FUNDAMENTALS_PROGRAMMING_PYTHON/blob/f22cb25e86be42d79438908058629074e3a4dd88/codechallenge2.py
 Second code challenge concerning denominations
 
-[CodeChallenge3]
+[CodeChallenge3]https://github.com/jamestiongcp-codee/ITCS102--FUNDAMENTALS_PROGRAMMING_PYTHON/blob/6a55e09f85daa6fa8897feb0681e5cda3b45b75c/codechallenge3.py
 Third code challenge entering username and password 
 
-[CodeChallenge4]
+[CodeChallenge4]https://github.com/jamestiongcp-codee/ITCS102--FUNDAMENTALS_PROGRAMMING_PYTHON/blob/6a55e09f85daa6fa8897feb0681e5cda3b45b75c/codechallenge4.py
 Fourth code challenge, program must determine if the number is even or odd
