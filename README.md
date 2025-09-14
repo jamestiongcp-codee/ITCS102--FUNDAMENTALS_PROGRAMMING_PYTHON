@@ -28,6 +28,9 @@ Ninth activity using logical operators
 [Activity10]https://github.com/jamestiongcp-codee/ITCS102--FUNDAMENTALS_PROGRAMMING_PYTHON/blob/f22cb25e86be42d79438908058629074e3a4dd88/activity%2010.py
 Tenth activity using if/else condition 
 
+[Activity11]
+11th activity about elif
+
 [CodeChallenge1]https://github.com/jamestiongcp-codee/ITCS102--FUNDAMENTALS_PROGRAMMING_PYTHON/blob/f22cb25e86be42d79438908058629074e3a4dd88/codechallenge1.py
 First code challenge making a diamond and inside is the name
 
@@ -39,3 +42,6 @@ Third code challenge entering username and password
 
 [CodeChallenge4]https://github.com/jamestiongcp-codee/ITCS102--FUNDAMENTALS_PROGRAMMING_PYTHON/blob/6a55e09f85daa6fa8897feb0681e5cda3b45b75c/codechallenge4.py
 Fourth code challenge, program must determine if the number is even or odd
+
+[Codechallenge5]
+Fifth code challenge, Manga Reader Recommendation
