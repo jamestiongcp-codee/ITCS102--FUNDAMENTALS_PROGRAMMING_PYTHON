@@ -31,13 +31,13 @@ Tenth activity using if/else condition
 [Activity11]https://github.com/jamestiongcp-codee/ITCS102--FUNDAMENTALS_PROGRAMMING_PYTHON/blob/6b465af7443c26a0286ddfcad2f5a7f528d19054/activity%2011.py
 11th activity about elif
 
-[Activity12]
+[Activity12]https://github.com/jamestiongcp-codee/ITCS102--FUNDAMENTALS_PROGRAMMING_PYTHON/blob/d552c405910c1e21a26f52388044e8f20de20d87/activit12.py
 12th activity, loop
 
-[Activity13]
-13th activity, 
+[Activity13]https://github.com/jamestiongcp-codee/ITCS102--FUNDAMENTALS_PROGRAMMING_PYTHON/blob/d552c405910c1e21a26f52388044e8f20de20d87/activity13.py
+13th activity, summation of 10 inputs 
 
-[Activity14]
+[Activity14]https://github.com/jamestiongcp-codee/ITCS102--FUNDAMENTALS_PROGRAMMING_PYTHON/blob/d552c405910c1e21a26f52388044e8f20de20d87/activity14.py
 14th activity, descending 
 
 [CodeChallenge1]https://github.com/jamestiongcp-codee/ITCS102--FUNDAMENTALS_PROGRAMMING_PYTHON/blob/f22cb25e86be42d79438908058629074e3a4dd88/codechallenge1.py
@@ -55,8 +55,8 @@ Fourth code challenge, program must determine if the number is even or odd
 [Codechallenge5]https://github.com/jamestiongcp-codee/ITCS102--FUNDAMENTALS_PROGRAMMING_PYTHON/blob/6b465af7443c26a0286ddfcad2f5a7f528d19054/codechallenge5.py
 Fifth code challenge, Manga Reader Recommendation
 
-[Codechallenge6]
+[Codechallenge6]https://github.com/jamestiongcp-codee/ITCS102--FUNDAMENTALS_PROGRAMMING_PYTHON/blob/d552c405910c1e21a26f52388044e8f20de20d87/codechallenge6.py
 6th code challenge, factorial
 
-[Codechallenge7]
+[Codechallenge7]https://github.com/jamestiongcp-codee/ITCS102--FUNDAMENTALS_PROGRAMMING_PYTHON/blob/d552c405910c1e21a26f52388044e8f20de20d87/codechallenge7.py
 7th code challenge, summation of all odd numbers
