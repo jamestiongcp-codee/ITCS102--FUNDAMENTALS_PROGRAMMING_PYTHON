@@ -60,3 +60,9 @@ Fifth code challenge, Manga Reader Recommendation
 
 [Codechallenge7]https://github.com/jamestiongcp-codee/ITCS102--FUNDAMENTALS_PROGRAMMING_PYTHON/blob/d552c405910c1e21a26f52388044e8f20de20d87/codechallenge7.py
 7th code challenge, summation of all odd numbers
+
+[Code_challenge8]https://github.com/jamestiongcp-codee/ITCS102--FUNDAMENTALS_PROGRAMMING_PYTHON/blob/b82a0946bf377f662c42e8000e641ce5b7516a0c/code_challenge8.py
+8th code challenge, Multiplication table maker
+
+[Code_challenge9]https://github.com/jamestiongcp-codee/ITCS102--FUNDAMENTALS_PROGRAMMING_PYTHON/blob/b82a0946bf377f662c42e8000e641ce5b7516a0c/code_challenge9.py
+9th code challenge, countdown 
