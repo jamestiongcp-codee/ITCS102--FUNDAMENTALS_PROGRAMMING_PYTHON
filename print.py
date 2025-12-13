@@ -1,25 +1,28 @@
 def choiceA():
     while True:
-       
         print("Please select:\nA - Description\nB - Sample code\nC - Result of sample code\nD - Exit sub menu")
         choice = input("Your choice-->").lower()
     
         if choice == 'a':
+            print("++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++")
             print("The print() function in Python is a built-in function used to display output to the console or a specified file stream. It is fundamental for debugging, providing user feedback, and displaying program results.")
-    
+            print("++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++")
         elif choice == 'b':
+            print("++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++")
             print('print("HELLO WORLD")')
-        
+            print("++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++")
         elif choice == 'c':
+            print("++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++")
             print("HELLO WORLD")
-        
+            print("++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++")
         elif choice == 'd':
             print("Exiting")
             break
         
         else:
+            print("++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++")
             print("Invalid choice")
-        
+            print("++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++")
 
 def choice2():
     print("Please select:\nA - Description\nB - Sample code\nC - Result of sample code")
@@ -48,21 +51,25 @@ def choiceB():
         choice = input("Your choice-->").lower()
         
         if choice == 'a':
+            print("++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++")
             print('In Python, a variable acts as a named storage location, or container, for a value. Variables are fundamental to programming, allowing you to store and manipulate data throughout your code.')
-        
+            print("++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++")
         elif choice == 'b':
+            print("++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++")
             print('name = james') #the variable (name) holds the value james
             print('print(name)')
-            
+            print("++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++")
         elif choice == 'c':
+            print("++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++")
             print('james')
-        
+            print("++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++")
         elif choice == 'd':
             break        
         
         else:
+            print("++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++")
             print('Invalid Choice')
-        
+            print("++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++")
 
             
         
